@@ -10,3 +10,8 @@ fmt.Sprintf
 types 定义类型
 npcs.go 进行为 types.Struct types.Func 进行添加组合方法
 字符串的使用方式
+
+##介绍
+https://122.51.193.134/?p=308#respond
+https://app.wercker.com/sin/hello/environment
+https://github.com/cloudnativego/go-primer/tree/master/npcs
