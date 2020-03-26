@@ -1,0 +1,12 @@
+这里使用了基础的讲解了
+Struct的使用
+Struct String()
+fmt.Println
+fmt.Sprintf
+接口的使用
+包的管理
+第三包的使用
+使用 npcs
+types 定义类型
+npcs.go 进行为 types.Struct types.Func 进行添加组合方法
+字符串的使用方式
