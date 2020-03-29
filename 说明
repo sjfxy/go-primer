@@ -63,6 +63,14 @@ https://devcenter.wercker.com/development/cli/installation/
 #自动部署和测试
 #很多的云的构建
 
+https://github.com/wercker/ 对应的git仓库
+
+https://github.com/wercker/getting-started-php  --对应的php的部署 支持yaml的写法如下
+
+php nodejs java golang js 的写法参考对应的 wercker即可
+
+
+
 
 
 

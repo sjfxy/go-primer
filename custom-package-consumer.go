@@ -5,8 +5,8 @@ import (
 	"www.cloudnative.com/go-primer/npcs"
 )
 
-func main()  {
-	mob := npcs.NonPlayerCharacter{Name:"Sin"}
+func main() {
+	mob := npcs.NonPlayerCharacter{Name: "Sin"}
 	fmt.Println(mob)
 	//String()一次的调用即可
 	//每个都会默认的调用 对象
@@ -24,9 +24,9 @@ func main()  {
 		Loc:   npcs.Location{X: 10.0, Y: 23.0, Z: 12.0},
 	}
 	fmt.Println(hortense)
-	fmt.Printf("Sin is %f units from fxy \n",mob.DistanceTo(hortense))
+	fmt.Printf("Sin is %f units from fxy \n", mob.DistanceTo(hortense))
 }
+
 //对象比较的时候 直接的loc.x loc.当前的实例对象 this.x -tar.loca
 //npc.loca=thisnp.clocatoar.x /y
 //我们只能说这个Go语言的很舒服的
-
